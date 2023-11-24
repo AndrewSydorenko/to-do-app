@@ -1,0 +1,10 @@
+.cardWrapper {
+    background-image: url("./assets/images/Ellipse1.svg"),
+        url("./assets/images/Ellipse2.svg"),
+        url("./assets/images/Ellipse3.svg"),
+        url("./assets/images/Ellipse4.svg"),
+        url("./assets/images/MaskGroup.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
