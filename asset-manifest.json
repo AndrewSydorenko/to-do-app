@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/to-do-app/static/css/main.557c69a0.css",
+    "main.js": "/to-do-app/static/js/main.a54bee24.js",
+    "static/media/21077233.png": "/to-do-app/static/media/21077233.eb0b77f56fd705faf642.png",
+    "static/media/MaskGroup.png": "/to-do-app/static/media/MaskGroup.9ffaebbd92d5cfd2bec1.png",
+    "index.html": "/to-do-app/index.html",
+    "static/media/Ellipse2.svg": "/to-do-app/static/media/Ellipse2.dfa6a70d7ebb7aeb193c.svg",
+    "static/media/Ellipse4.svg": "/to-do-app/static/media/Ellipse4.26bcb72182824eb426ee.svg",
+    "static/media/Ellipse3.svg": "/to-do-app/static/media/Ellipse3.b75c0174fb1f268fe1d6.svg",
+    "static/media/Ellipse1.svg": "/to-do-app/static/media/Ellipse1.b4917b5eb53f0623b3f9.svg",
+    "static/media/gridicons_cross-small.svg": "/to-do-app/static/media/gridicons_cross-small.5566424c1f200996e64004f8497e2790.svg",
+    "main.557c69a0.css.map": "/to-do-app/static/css/main.557c69a0.css.map",
+    "main.a54bee24.js.map": "/to-do-app/static/js/main.a54bee24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.557c69a0.css",
+    "static/js/main.a54bee24.js"
+  ]
+}
