@@ -18,7 +18,6 @@ export const Inputs = ({
       <TextStyled
         type="text"
         placeholder="Title..."
-        style={{ paddingLeft: "10px" }}
         value={text}
         onChange={(e) => handleInput(e.target.value)}
       ></TextStyled>

@@ -15,6 +15,7 @@ export const TextStyled = styled.input`
   height: 35px;
   border: none;
   border-radius: 3px;
+  padding-left: 10px;
   background: rgba(255, 255, 255, 0.6);
   color: rgba(33, 33, 33, 0.7);
   font-family: Montserrat;
